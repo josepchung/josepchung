@@ -1,9 +1,15 @@
 ### Hi there 👋
-SOU JOSEP CHUNG
+I AM JOSEP CHUNG
+
 
 - 🔭 I’m currently working on ...
+GARMENTs 
 
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ...
+Data Science 
+
+⚡ Fun fact: ...
+I like sports...of all kinds 
 
 <!--
 **josepchung/josepchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
